@@ -1,0 +1,24 @@
+body {
+    background-color: 	#9370DB; /* Violet clair en code hexadécimal */
+}
+
+
+.container {
+      width: 1000px; /* Vous pouvez ajuster la taille du carré selon vos besoins */
+      height: 130px;
+      background-color:#90EE90; /* Couleur de fond */
+      align-items: center;
+      justify-content: center;
+	  border:10px solid purple
+    }
+ 
+.image-cercle {
+  border-radius:; /* Cette propriété rendra l'image circulaire en utilisant un rayon de 50% */
+  width: 500px; /* Définissez la largeur souhaitée pour votre image circulaire */
+  height: 200px; /* Définissez la hauteur souhaitée pour votre image circulaire */
+  border: 2px solid red;
+  
+}
+
+
+
